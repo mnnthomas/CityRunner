@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: f0e910ec063e66d469009f12b1bbaecf
+timeCreated: 1503138599
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Franken
+    100004: Franken_Bip001
+    100006: Franken_Bip001 Footsteps
+    100008: Franken_Bip001 Head
+    100010: Franken_Bip001 L Calf
+    100012: Franken_Bip001 L Clavicle
+    100014: Franken_Bip001 L Finger0
+    100016: Franken_Bip001 L Finger1
+    100018: Franken_Bip001 L Finger2
+    100020: Franken_Bip001 L Foot
+    100022: Franken_Bip001 L Forearm
+    100024: Franken_Bip001 L Hand
+    100026: Franken_Bip001 L Thigh
+    100028: Franken_Bip001 L Toe0
+    100030: Franken_Bip001 L UpperArm
+    100032: Franken_Bip001 Neck
+    100034: Franken_Bip001 Pelvis
+    100036: Franken_Bip001 R Calf
+    100038: Franken_Bip001 R Clavicle
+    100040: Franken_Bip001 R Finger0
+    100042: Franken_Bip001 R Finger1
+    100044: Franken_Bip001 R Finger2
+    100046: Franken_Bip001 R Foot
+    100048: Franken_Bip001 R Forearm
+    100050: Franken_Bip001 R Hand
+    100052: Franken_Bip001 R Thigh
+    100054: Franken_Bip001 R Toe0
+    100056: Franken_Bip001 R UpperArm
+    100058: Franken_Bip001 Spine
+    100060: Franken_Bip001 Spine1
+    100062: Franken_Bone001
+    400000: //RootNode
+    400002: Franken
+    400004: Franken_Bip001
+    400006: Franken_Bip001 Footsteps
+    400008: Franken_Bip001 Head
+    400010: Franken_Bip001 L Calf
+    400012: Franken_Bip001 L Clavicle
+    400014: Franken_Bip001 L Finger0
+    400016: Franken_Bip001 L Finger1
+    400018: Franken_Bip001 L Finger2
+    400020: Franken_Bip001 L Foot
+    400022: Franken_Bip001 L Forearm
+    400024: Franken_Bip001 L Hand
+    400026: Franken_Bip001 L Thigh
+    400028: Franken_Bip001 L Toe0
+    400030: Franken_Bip001 L UpperArm
+    400032: Franken_Bip001 Neck
+    400034: Franken_Bip001 Pelvis
+    400036: Franken_Bip001 R Calf
+    400038: Franken_Bip001 R Clavicle
+    400040: Franken_Bip001 R Finger0
+    400042: Franken_Bip001 R Finger1
+    400044: Franken_Bip001 R Finger2
+    400046: Franken_Bip001 R Foot
+    400048: Franken_Bip001 R Forearm
+    400050: Franken_Bip001 R Hand
+    400052: Franken_Bip001 R Thigh
+    400054: Franken_Bip001 R Toe0
+    400056: Franken_Bip001 R UpperArm
+    400058: Franken_Bip001 Spine
+    400060: Franken_Bip001 Spine1
+    400062: Franken_Bone001
+    2300000: Franken
+    3300000: Franken
+    4300000: Franken
+    7400000: Take 001
+    7400002: mixamo.com
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Franken
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Franken_Bip001
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

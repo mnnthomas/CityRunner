@@ -1,0 +1,61 @@
+D:\NaveenThomas\Demo\Temp\bin\Debug\Assembly-CSharp.dll
+D:\NaveenThomas\Demo\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\NaveenThomas\Demo\Temp\bin\Debug\UnityEditor.dll
+D:\NaveenThomas\Demo\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\NaveenThomas\Demo\Temp\bin\Debug\UnityEngine.dll
+D:\NaveenThomas\Demo\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\NaveenThomas\Demo\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\NaveenThomas\Demo\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+D:\NaveenThomas\Demo\Temp\bin\Debug\UnityEngine.UI.dll
+D:\NaveenThomas\Demo\Temp\bin\Debug\UnityEngine.VR.dll
+D:\NaveenThomas\Demo\Temp\bin\Debug\Mono.Cecil.dll
+D:\NaveenThomas\Demo\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\NaveenThomas\Demo\Temp\bin\Debug\Unity.DataContract.dll
+D:\NaveenThomas\Demo\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\NaveenThomas\Demo\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\NaveenThomas\Demo\Temp\bin\Debug\Unity.CecilTools.dll
+D:\NaveenThomas\Demo\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\NaveenThomas\Demo\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\NaveenThomas\Demo\Temp\bin\Debug\UnityEngine.xml
+D:\NaveenThomas\Demo\Temp\bin\Debug\UnityEditor.xml
+D:\NaveenThomas\Demo\Temp\bin\Debug\UnityEngine.UI.xml
+D:\NaveenThomas\Demo\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\NaveenThomas\Demo\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+D:\NaveenThomas\Demo\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\NaveenThomas\Demo\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\NaveenThomas\Demo\Temp\bin\Debug\UnityEngine.VR.xml
+D:\NaveenThomas\Demo\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\NaveenThomas\Demo\obj\Debug\Assembly-CSharp.dll
+D:\NaveenThomas\Demo\obj\Debug\Assembly-CSharp.pdb
+D:\Unity Projects\Demo\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Unity Projects\Demo\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Unity Projects\Demo\Temp\bin\Debug\nunit.framework.dll
+D:\Unity Projects\Demo\Temp\bin\Debug\UnityEditor.dll
+D:\Unity Projects\Demo\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Unity Projects\Demo\Temp\bin\Debug\UnityEngine.dll
+D:\Unity Projects\Demo\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Unity Projects\Demo\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Unity Projects\Demo\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Unity Projects\Demo\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Unity Projects\Demo\Temp\bin\Debug\Mono.Cecil.dll
+D:\Unity Projects\Demo\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Unity Projects\Demo\Temp\bin\Debug\Unity.DataContract.dll
+D:\Unity Projects\Demo\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Unity Projects\Demo\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Unity Projects\Demo\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Unity Projects\Demo\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Unity Projects\Demo\Temp\bin\Debug\UnityEngine.xml
+D:\Unity Projects\Demo\Temp\bin\Debug\UnityEditor.xml
+D:\Unity Projects\Demo\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Unity Projects\Demo\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Unity Projects\Demo\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Unity Projects\Demo\Temp\bin\Debug\nunit.framework.xml
+D:\Unity Projects\Demo\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Unity Projects\Demo\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Unity Projects\Demo\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Unity Projects\Demo\obj\Debug\Assembly-CSharp.dll
+D:\Unity Projects\Demo\obj\Debug\Assembly-CSharp.pdb
+D:\Unity Projects\Demo\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Unity Projects\Demo\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Unity Projects\Demo\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Unity Projects\Demo\Temp\bin\Debug\UnityEngine.Timeline.xml
